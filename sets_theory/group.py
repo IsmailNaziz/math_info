@@ -78,4 +78,4 @@ class GroupChecker(object):
 			print("E muni de l'opération fournie est un groupe abélien")
 			return True
 		print("E muni de l'opération fournie n'est pas un groupe abélien")
-		return Falsehas_neutral_element
+		return False
